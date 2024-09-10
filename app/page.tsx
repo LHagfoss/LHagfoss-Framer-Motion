@@ -5,7 +5,7 @@ import Lenis from '@studio-freight/lenis'
 import { useEffect } from 'react';
 import { motion, easeIn } from "framer-motion"
 
-import Navbar from "@components/Navbar"
+import Navbar from "@components/navbar"
 import image from "@assets/balls.png"
 import ontopImage from "@assets/7DaHt-ZzFPAIXgTr8NsZ--transformed.png"
 import draw from "@assets/drag.svg"
